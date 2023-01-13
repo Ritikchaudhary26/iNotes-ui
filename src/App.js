@@ -6,7 +6,7 @@ import Loginscreen from "./components/Login/Loginscreen";
 import Register from "./components/sign-up/Register";
 import NoteState from "./context/NoteState";
 import Main from "./components/Main/Main";
-
+   
  
 
 function App() {

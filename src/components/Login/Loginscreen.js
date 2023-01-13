@@ -25,7 +25,7 @@ const Loginscreen = () => {
     
     if (json.success) {
       localStorage.setItem('token',json.authtoken)
-      window.location="/Main"
+      window.location="/Main" 
     } else {
       alert(   )
     }
